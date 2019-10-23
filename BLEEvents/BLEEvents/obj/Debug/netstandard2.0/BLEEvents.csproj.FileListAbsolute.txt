@@ -1,0 +1,25 @@
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\BLEEvents.deps.json
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\BLEEvents.dll
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\ref\BLEEvents.dll
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\BLEEvents.pdb
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.dll
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\ref\BLEEvents.dll
+C:\Users\Admin\source\repos\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.pdb
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\BLEEvents.deps.json
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\BLEEvents.dll
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\ref\BLEEvents.dll
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\bin\Debug\netstandard2.0\BLEEvents.pdb
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.AssemblyInfo.cs
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.dll
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\ref\BLEEvents.dll
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.pdb
+C:\Users\Admin\source\repos\New folder\BLEEvents\BLEEvents\BLEEvents\obj\Debug\netstandard2.0\BLEEvents.csprojAssemblyReference.cache
